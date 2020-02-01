@@ -1,0 +1,46 @@
+header {
+    position: relative;
+    left: 25%;
+    top: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 5%;
+    padding-right: 27%;
+    color: #353535;
+    margin: 0px;
+    float: right;
+    text-align: justify;
+}
+
+img {
+    cursor: pointer;
+}
+
+h1.judul {
+    margin-bottom: 0.1px;
+}
+
+h2.judul {
+    margin-top: 10px;
+    margin-bottom: 0.3px;
+}
+
+h3.judul {
+    margin-top: 13px;
+    margin-bottom: 10%;
+}
+
+button {
+    font-size: medium;
+    color: red;
+}
